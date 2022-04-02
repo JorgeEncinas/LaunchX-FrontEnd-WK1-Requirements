@@ -5,7 +5,7 @@ While I put more time on the requirements and the wireframe, I must acknowledge 
 
 I would love to receive feedback on the requirements!
 
-Also wrote a Buyer Persona, Target Audience, some Wireframe screens, and a UI, which I tried to just make a quick design with one screen to just show off the colors and whatnot. Again, not much time!
+Also wrote a Buyer Persona, Target Audience, some Wireframe screens, and a UI, for which I just made a quick design with one screen, just to show off the colors and whatnot. Again, not much time!
 
 #Link to the other weeks of the FrontEnd Mission
 
